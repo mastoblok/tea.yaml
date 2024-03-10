@@ -1,0 +1,19 @@
+{
+  "name": "XXXXXXX",
+  "version": "0.0.1-security",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: Tea token no registed\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tea.xyz/what-is-this-file"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://tea.xyz/"
+  },
+  "homepage": "https://github.com/mastoblok/tea.yaml"
+}
